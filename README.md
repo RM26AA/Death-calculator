@@ -28,15 +28,15 @@ The Death Calculator X is a lighthearted web application that randomly generates
    cd your-repository-name
 3. Open the index.html file in a web browser to start using the app.
 
-How to Use:
-Enter your name, surname, age, and place of birth in the provided fields.
-Click the Calculate button to see your "chance of death" result.
-The result will appear below the button with a percentage display.
+## How to Use:
+- Enter your name, surname, age, and place of birth in the provided fields.
+- Click the Calculate button to see your "chance of death" result.
+- The result will appear below the button with a percentage display.
 
-License:
+## License:
 This project is open-source and available under the MIT License.
 
-Author:
+## Author:
 Romeo Maunick - A tech enthusiast with a passion for creating fun and interactive web experiences.
 
 
